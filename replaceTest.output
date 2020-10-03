@@ -1,0 +1,96 @@
+Welcome to Qwirkle!
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Show student information
+4. Quit
+> Starting a New Game
+How many players? (2-4)
+> Enter a name for player 1 (Only uppercase characters)
+> Enter a name for player 2 (Only uppercase characters)
+> Enter a name for player 3 (Only uppercase characters)
+> Enter a name for player 4 (Only uppercase characters)
+> Players for the game are 
+Player 1 : ABIR
+Player 2 : LABIB
+Player 3 : SAM
+Player 4 : DUN
+Starting new game 
+Player ABIR's turn 
+ABIR: 0
+LABIB: 0
+SAM: 0
+DUN: 0
+   0  1  2  3  4  5  
+  ------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+Your hand is
+B4, G1, R5, G4, B6, Y6
+> Player LABIB's turn 
+ABIR: 0
+LABIB: 0
+SAM: 0
+DUN: 0
+   0  1  2  3  4  5  
+  ------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+Your hand is
+R6, O1, O5, Y3, B2, B1
+> Player SAM's turn 
+ABIR: 0
+LABIB: 0
+SAM: 0
+DUN: 0
+   0  1  2  3  4  5  
+  ------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+Your hand is
+R4, R2, B5, P2, R2, P3
+> Player DUN's turn 
+ABIR: 0
+LABIB: 0
+SAM: 0
+DUN: 0
+   0  1  2  3  4  5  
+  ------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+Your hand is
+Y4, O3, O1, Y5, O6, P5
+> Player ABIR's turn 
+ABIR: 0
+LABIB: 0
+SAM: 0
+DUN: 0
+   0  1  2  3  4  5  
+  ------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+Your hand is
+B4, G1, G4, B6, Y6, P2
+> > Goodbye
